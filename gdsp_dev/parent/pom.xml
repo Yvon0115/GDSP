@@ -223,7 +223,7 @@
 		<!-- <jurt.version>3.0.1</jurt.version> -->
 		<!-- <ridl.version>3.0.1</ridl.version> -->
 		<!-- <unoil.version>3.0.1</unoil.version> -->
-		<xstream.version>1.3.1</xstream.version>
+		<xstream.version>1.4.18</xstream.version>
 		<guava.version>14.0.1</guava.version>
 		<!-- 证书认证器版本 -->
 		<truelicense.version>1.33</truelicense.version>
